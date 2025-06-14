@@ -1,0 +1,2 @@
+# Hear-Me
+HearMe is an open-source real-time voice-to-text, translation, and communication platform designed for inclusive and accessible interaction between people with different languages and abilities.
